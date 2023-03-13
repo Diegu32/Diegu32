@@ -19,7 +19,7 @@
 |cp             |para copiar archivos o directorios y su contenido |
 |cat            |lista, combina y escribe el contenido de los archivos |
 |mkdir          |para crear uno o varios directorios a la vez |
-
+|mv             |Uso principal, mover archivos, pero tambien se puede usar para cambiar el nombre de archivos|
 
 
 
