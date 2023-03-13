@@ -11,7 +11,7 @@
 ## Al dia de hoy estoy tratando de aprender cada dia un poquito mas! 
 
 
-**A continuacion les dejo algunos de los comandos mas utilizados en Linux. 
+**A continuacion les dejo algunos de los comandos mas utilizados en Linux**
 
 |Comandos       |Descripcion     |
 |---------------|----------------|
@@ -20,6 +20,12 @@
 |cat            |lista, combina y escribe el contenido de los archivos |
 |mkdir          |para crear uno o varios directorios a la vez |
 |mv             |Uso principal, mover archivos, pero tambien se puede usar para cambiar el nombre de archivos|
+|grep           |Ayuda a buscar/filtrar palabras en archivos de gran tamaño, por ejemplo si queres buscar la palabra arbol en el archivo naturaleza.txt colocas el siguiente texto "grep arbol naturaleza.txt" |
+|chmod          |es un comando común que modifica los permisos de lectura, escritura y ejecución de un archivo o directorio |
+
+
+
+
 
 
 
