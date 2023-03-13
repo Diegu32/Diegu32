@@ -11,6 +11,16 @@
 ## Al dia de hoy estoy tratando de aprender cada dia un poquito mas! 
 
 
+**A continuacion les dejo algunos de los comandos mas utilizados en Linux. 
+
+|Comandos       |Descripcion     |
+|---------------|----------------|
+|sudo           |Realizar tareas de superusuario, entre muchas otras utilidades |
+|cp             |para copiar archivos o directorios y su contenido |
+|cat            |lista, combina y escribe el contenido de los archivos |
+|mkdir          |para crear uno o varios directorios a la vez |
+
+
 
 
 <!--
