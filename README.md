@@ -1,6 +1,5 @@
-# _Hi thereeeee 👋
 
-# Hola! Me llamo Diego, vivo en Tucuman, Argentina. 
+# Hola! 👋 Me llamo Diego, vivo en Tucuman, Argentina. 
 
 ## Habia pensado realmente en que escribir aca como presentacion contandoles un poco sobre mi vida pero al final lo escribi y al reiniciar la computadora se me borro todo.. JAJA asi que vamos de nuevo! :tired_face:
 
