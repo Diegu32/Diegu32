@@ -25,8 +25,12 @@
 
 
 
+**Para terminar les dejo alguns comandos alias que para mi son bastante utiles:**
 
-
+|Comandos alias           |Descripcion    |               
+|-------------------------|---------------|
+|alias cc="clear"         |borrar el contenido de la terminal |
+|alias _="sudo"           |para realizar tareas de superusuario entre muchas otras utilidades |
 
 
 <!--
