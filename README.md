@@ -12,21 +12,21 @@
 
 **A continuacion les dejo algunos de los comandos mas utilizados en Linux**
 
-|Comandos       |Descripcion     |
-|---------------|----------------|
-|sudo           |Realizar tareas de superusuario, entre muchas otras utilidades |
-|cp             |para copiar archivos o directorios y su contenido |
-|cat            |lista, combina y escribe el contenido de los archivos |
-|mkdir          |para crear uno o varios directorios a la vez |
-|mv             |Uso principal, mover archivos, pero tambien se puede usar para cambiar el nombre de archivos|
-|grep           |Ayuda a buscar/filtrar palabras en archivos de gran tamaño, por ejemplo si queres buscar la palabra arbol en el archivo naturaleza.txt colocas el siguiente texto "grep arbol naturaleza.txt" |
-|chmod          |es un comando común que modifica los permisos de lectura, escritura y ejecución de un archivo o directorio |
+|Comandos       |Descripcion                                                                                                                            |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|sudo           |Realizar tareas de superusuario, entre muchas otras utilidades                                                                         |
+|cp             |para copiar archivos o directorios y su contenido                                                                                      | 
+|cat            |lista, combina y escribe el contenido de los archivos                                                                                  |
+|mkdir          |para crear uno o varios directorios a la vez                                                                                           |
+|mv             |Uso principal, mover archivos, pero tambien se puede usar para cambiar el nombre de archivos                                           |
+|grep           |Ayuda a buscar/filtrar palabras en archivos de gran tamaño, por ejemplo si queres buscar la palabra arbol en el archivo naturaleza.txt colocas el siguiente texto "grep arbol naturaleza.txt"                                                                                                  |
+|chmod          |es un comando común que modifica los permisos de lectura, escritura y ejecución de un archivo o directorio                             |
 
 
 
 **Para terminar les dejo alguns comandos alias que para mi son bastante utiles:**
 
-|Comandos alias           |Descripcion    |               
-|-------------------------|---------------|
-|alias cc="clear"         |borrar el contenido de la terminal |
+|Comandos alias           |Descripcion                                                        |               
+|-------------------------|-------------------------------------------------------------------|
+|alias cc="clear"         |borrar el contenido de la terminal                                 |
 |alias _="sudo"           |para realizar tareas de superusuario entre muchas otras utilidades |
